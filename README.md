@@ -65,6 +65,10 @@ A visual summary of the annual report, emphasizing:
 ### Visualization:
 - Dashboard showcasing top categories, sales trends, and channel contributions.
 
+- ## Visuals of The Dashboard
+
+  ![Screenshot (21)](https://github.com/user-attachments/assets/a16273a8-da6d-4cbb-bae7-d35ff62bcdca)
+
 ## Tools and Techniques
 - **Tools**: Microsoft Excel (Pivot Tables, Dashboards).
 - **Techniques**: Data cleaning, preprocessing, pivot table creation, and data visualization.
